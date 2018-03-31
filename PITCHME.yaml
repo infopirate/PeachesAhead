@@ -9,6 +9,6 @@ theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-dark
 logo : assets/image/logo.png
-transition : none
+transition : dissolve
 published : true
-footnote : "GitPitch [ Black ] Presentation Template"
+footnote : "[ Black ] Presentation-Template"
