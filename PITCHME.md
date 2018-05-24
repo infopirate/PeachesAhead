@@ -1,4 +1,4 @@
-### UniBit's Uplink
+### UniBit's Uplink Project
 
 ![alt text](https://raw.githubusercontent.com/unibitlabs/vigilant-barnacle/master/assets/image/uplink-1.png "Logo")
 
@@ -9,6 +9,10 @@
 ## Tips!
 
 <br>
+
+- [X] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
