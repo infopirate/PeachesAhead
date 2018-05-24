@@ -17,8 +17,8 @@
 ## Main Goals
 
 - [Hardware Assembly](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7) |
-- Software Setup |
-- Dish Alignment |
+- [Software Setup](https://medium.com/@notgrubles/building-your-own-bitcoin-satellite-node-part-2-software-installation-a94a0b85d089) |
+- [Dish Alignment](https://hackernoon.com/building-your-own-bitcoin-satellite-node-part-3-dish-alignment-1306b4c21326) |
 - Uplink Off-line Blockchain Sync Testing |
 - Test Transaction |
 - Custom Logo, 3rd Party Review, and Footnotes |
