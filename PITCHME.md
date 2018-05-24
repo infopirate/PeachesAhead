@@ -1,6 +1,6 @@
 # Uplink
 
-![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/sat.png "Logo")
+![alt text](https://raw.githubusercontent.com/unibitlabs/vigilant-barnacle/master/assets/image/sat.png "Logo")
 
 ### A GitPitch Presentation Template
 
