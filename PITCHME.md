@@ -1,4 +1,4 @@
-# Black
+# Uplink Team Build Presentation
 
 ### A GitPitch Presentation Template
 
@@ -14,14 +14,14 @@
 
 ---
 
-## Template Features
+## Main Goals
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Hardware Assembly |
+- Software Setup |
+- Dish Alignment |
+- Uplink Off-line Blockchain Sync Testing |
+- Test Transaction |
+- Custom Logo, 3rd Party Review, and Footnotes |
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
