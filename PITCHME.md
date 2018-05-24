@@ -1,4 +1,4 @@
-# Uplink Team Build Presentation
+# Uplink
 
 ### A GitPitch Presentation Template
 
@@ -16,7 +16,7 @@
 
 ## Main Goals
 
-- Hardware Assembly |
+- [Hardware Assembly](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7) |
 - Software Setup |
 - Dish Alignment |
 - Uplink Off-line Blockchain Sync Testing |
