@@ -15,7 +15,7 @@
 (Which we were thinking of doing as soon as we heard about the project anyway)
 - [X] Acquired the parts necessary for the build.
 
-![List](https://raw.githubusercontent.com/unibitlabs/vigilant-barnacle/master/assets/image/list.svg)
+![List](https://raw.githubusercontent.com/unibitlabs/vigilant-barnacle/master/assets/image/list.svg?sanitize=true)
 
 https://github.com/Blockstream/satellite#hardware-required
 
