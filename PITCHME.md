@@ -14,6 +14,11 @@
 - [X] Found hackernoon article about building your own uplink to connect to Blockstream satellites! <br>
 (Which we were thinking of doing as soon as we heard about the project anyway)
 - [X] Acquired the parts necessary for the build.
+
+![List](https://raw.githubusercontent.com/unibitlabs/vigilant-barnacle/master/assets/image/list.svg)
+
+https://github.com/Blockstream/satellite#hardware-required
+
 - [X] Decided to do a Live Stream of the Build process
 - [X] Decided to contact author of hackernoon article and include anyone that wanted to participate in the project.
 - [ ] Surveyed the terrain for a proper directional facing with clear line of sight.
