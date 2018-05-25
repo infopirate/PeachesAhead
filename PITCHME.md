@@ -11,7 +11,7 @@
 <br>
 
 - [X] Learned about Blockstream Satellite Project.
-- [ ] Found hackernoon article about building your own uplink to connect to Blockstream satellites! 
+- [X] Found hackernoon article about building your own uplink to connect to Blockstream satellites! <br>
 (Which we were thinking of doing as soon as we heard about the project anyway)
 - [X] Acquired the parts necessary for the build.
 - [X] Decided to do a Live Stream of the Build process
