@@ -95,6 +95,9 @@ https://github.com/Blockstream/satellite#hardware-required
 ### Get your presentation started!
 
 ![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/discord.png?raw=true "Logo")
+![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/twitch.png?raw=true "Logo")
+![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/youtube.png?raw=true "Logo")
+![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/find-us-on-facebook.png?raw=true "Logo")
 
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black)
 
