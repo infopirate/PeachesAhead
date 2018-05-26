@@ -90,14 +90,16 @@ https://github.com/Blockstream/satellite#hardware-required
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
-@title[Download this Template!]
+@title[Get Involved!]
 
-### Get your presentation started!
+### Get started helping us out!
 
-![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/discord.png?raw=true "Logo")
-![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/twitch.png?raw=true "Logo")
-![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/youtube.png?raw=true "Logo")
-![alt text](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/find-us-on-facebook.png?raw=true "Logo")
+![Discord](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/discord.png?raw=true)
+
+![Twitch](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/twitch.png?raw=true)
+
+![YouTube](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/youtube.png?raw=true)
+
+![FaceBook](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/find-us-on-facebook.png?raw=true)
 
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black)
-
