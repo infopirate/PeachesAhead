@@ -1,6 +1,6 @@
-### UniBit's Uplink Project
+### The PeachesAhead Project
 
-![alt text](https://raw.githubusercontent.com/unibitlabs/vigilant-barnacle/master/assets/image/uplink-1.png "Logo")
+![alt text](https://image.ibb.co/dPnWL8/giphy.gif "Logo")
 
 ##### A UniBit Labs Presentation 
 
