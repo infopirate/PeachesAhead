@@ -43,9 +43,9 @@ How this is done...
 ## Project Resources & Help
 
 - [PoC Blockchain + Agriculture Demonstration Code](https://github.com/AravindNico/blockchain_agri_usecase)
-  + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 1](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-1), [How Blockchain Can Revolutionize Agricultural Supply Chain Part 2](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-2), [Video Demo](https://www.youtube.com/watch?v=_c691Myl8sA) 
+  + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 1](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-1) 
+  + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 2](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-2)
   
-
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---
