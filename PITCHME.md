@@ -33,7 +33,7 @@ How this is done...
 
 Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg, Texas
 
-@fa[list-alt](Factom Powered Verification Layer)
+@fa[list-alt gp-tip](Factom Powered Verification Layer)
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
