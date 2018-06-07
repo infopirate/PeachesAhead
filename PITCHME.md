@@ -6,12 +6,13 @@
 
 ---
 
-## Main Goals
+## Main Priorities
 
 - [X] A Web Application to monitor MultiChain & Factom for Transaction
 - [ ] A tracking method across the blocks/transactions to monitoring goods from farm to distributor to stand
 - [ ] Stand selling peaches from distributor to end customers
 
+Time, Functionality, Security, Savings, Effort
 
 ---
 
@@ -31,9 +32,8 @@ How this is done...
 
 ## Even More stuff
 
-Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg, Texas
-
 @fa[list-alt gp-tip](Factom Powered Verification Layer)
+Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg, Texas
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
