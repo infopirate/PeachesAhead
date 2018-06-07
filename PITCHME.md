@@ -12,7 +12,11 @@
 - [ ] A tracking method across the blocks/transactions to monitoring goods from farm to distributor to stand
 - [ ] Stand selling peaches from distributor to end customers
 
+Major Considerations:
 Time, Functionality, Security, Savings, Effort
+
+The Big Questions: 
+How does Blockchain enable the world to bypass paper?
 
 ---
 
