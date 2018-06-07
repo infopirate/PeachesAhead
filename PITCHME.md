@@ -12,14 +12,6 @@
 - [ ] A tracking method across the blocks/transactions to monitoring goods from farm to distributor to stand
 - [ ] Stand selling peaches from distributor to end customers
 
-Participants will be asked to use the Factom blockchain to create solutions using data from the Factom Blockchain instead of what would be traditionally stored on paper.
-
-Verifying the fruit is from where it claims to be from...
-How this is done...
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
