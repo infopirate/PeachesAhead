@@ -2,7 +2,7 @@
 
 <img src="https://image.ibb.co/dPnWL8/giphy.gif" style="background:none; border:none; box-shadow:none;">
 
-##### A UniBit Labs Presentation 
+##### A Factom Hackathon Presentation 
 
 ---
 
