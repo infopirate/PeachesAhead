@@ -6,23 +6,13 @@
 
 ---
 
-## FAQ
+## Main Goals
 
-<br>
+- [ ] A Web Application to monitor MultiChain & Factom for Transaction
+- [ ] A 
+- [ ] S
 
-- [X] Learned about Blockstream Satellite Project.
-- [X] Found hackernoon article about building your own uplink to connect to Blockstream satellites! <br>
-(Which we were thinking of doing as soon as we heard about the project anyway)
-- [X] Acquired the parts necessary for the build.
-
-![List](https://raw.githubusercontent.com/unibitlabs/vigilant-barnacle/master/assets/image/list.svg?sanitize=true)
-
-https://github.com/Blockstream/satellite#hardware-required
-
-- [X] Decided to do a Live Stream of the Build process
-- [X] Decided to contact author of hackernoon article and include anyone that wanted to participate in the project.
-- [ ] Surveyed the terrain for a proper directional facing with clear line of sight.
-
+Participants will be asked to use the Factom blockchain to create solutions using data from the Factom Blockchain instead of what would be traditionally stored on paper.
 
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
