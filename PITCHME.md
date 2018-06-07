@@ -12,10 +12,6 @@
 - [ ] A tracking method across the blocks/transactions to monitoring goods from farm to distributor to stand
 - [ ] Stand selling peaches from distributor to end customers
 
-[ ] 1<br>
-[ ] 2<br>
-[ ] 3
-
 
 ---
 
@@ -29,6 +25,20 @@ How this is done...
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
+
+
+---
+
+## Even More stuff
+
+Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg, Texas
+
+@fa[list-alt](Factom Powered Verification Layer)
+
+@fa[arrows gp-tip](Press F to go Fullscreen)
+
+@fa[microphone gp-tip](Press S for Speaker Notes)
+
 
 ---
 
