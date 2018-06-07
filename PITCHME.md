@@ -95,5 +95,5 @@ How this is done...
 
 ---
 
-[![YouTube](http://img.youtube.com/vi/_c691Myl8sA/0.jpg)](http://www.youtube.com/watch?v=_c691Myl8sA)
+[![YouTube]](http://www.youtube.com/watch?v=_c691Myl8sA)
 
