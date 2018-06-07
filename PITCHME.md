@@ -6,6 +6,27 @@
 
 ---
 
+## Project Backstory
+
+Factom Hackathon Question - How does Blockchain enable the world to bypass paper?
+
+- [ ] Major goal - paperless supply chain demonstration, running on a blockchain network or 2..
+
+Answer: 
+
+
+Security
+- [ ] A visual way of tracking / monitoring peaches from farm(s) to the distributor(s) to the stand(s).
+- [ ] Stand selling peaches that can be verified authentic. 
+
+Major Considerations:
+Time, Functionality, Security, Savings, Effort
+
+The Big Questions: 
+How does Blockchain enable the world to bypass paper?
+
+---
+
 ## Main Priorities
 
 Savings
