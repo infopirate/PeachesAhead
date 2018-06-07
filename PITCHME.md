@@ -8,9 +8,12 @@
 
 ## Main Priorities
 
-- [X] A Web Application to monitor MultiChain & Factom for Transaction
-- [ ] A tracking method across the blocks/transactions to monitoring goods from farm to distributor to stand
-- [ ] Stand selling peaches from distributor to end customers
+Savings
+- [ ] A major goal of the project
+
+Security
+- [ ] A visual way of tracking / monitoring peaches from farm(s) to the distributor(s) to the stand(s).
+- [ ] Stand selling peaches that can be verified authentic. 
 
 Major Considerations:
 Time, Functionality, Security, Savings, Effort
