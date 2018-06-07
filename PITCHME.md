@@ -9,11 +9,13 @@
 ## Main Goals
 
 - [ ] A Web Application to monitor MultiChain & Factom for Transaction
-- [ ] A 
-- [ ] S
+- [ ] A tracking method across the blocks/transactions to monitoring goods from farm to distributor to stand
+- [ ] Stand selling peaches from distributor to end customers
 
 Participants will be asked to use the Factom blockchain to create solutions using data from the Factom Blockchain instead of what would be traditionally stored on paper.
 
+Verifying the fruit is from where it claims to be from...
+How this is done...
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
@@ -23,11 +25,11 @@ Participants will be asked to use the Factom blockchain to create solutions usin
 
 ## Main Goals
 
-- [Hardware Assembly](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7) |
-- [Software Setup](https://medium.com/@notgrubles/building-your-own-bitcoin-satellite-node-part-2-software-installation-a94a0b85d089) |
-- [Dish Alignment](https://hackernoon.com/building-your-own-bitcoin-satellite-node-part-3-dish-alignment-1306b4c21326) |
+- [Plan of Attack](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7) |
+- [Team Milestones](https://medium.com/@notgrubles/building-your-own-bitcoin-satellite-node-part-2-software-installation-a94a0b85d089) |
+- [Documenting](https://hackernoon.com/building-your-own-bitcoin-satellite-node-part-3-dish-alignment-1306b4c21326) |
 - Uplink Off-line Blockchain Sync Testing |
-- Test Transaction |
+- Test Transaction's and webApp showing |
 - Custom Logo, 3rd Party Review, and Footnotes |
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
