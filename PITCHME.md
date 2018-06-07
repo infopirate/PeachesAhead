@@ -92,3 +92,8 @@ How this is done...
 ![FaceBook](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/find-us-on-facebook.png?raw=true)
 
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black)
+
+---
+
+[![YouTube](http://img.youtube.com/vi/c691Myl8sA/0.jpg)](http://www.youtube.com/watch?v=c691Myl8sA)
+
