@@ -12,6 +12,10 @@
 - [ ] A tracking method across the blocks/transactions to monitoring goods from farm to distributor to stand
 - [ ] Stand selling peaches from distributor to end customers
 
+-[ ] 1
+-[ ] 2
+-[ ] 3
+
 
 ---
 
