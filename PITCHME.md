@@ -45,8 +45,7 @@ How this is done...
 - [PoC Blockchain + Agriculture Demonstration Code](https://github.com/AravindNico/blockchain_agri_usecase)
   + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 1](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-1) 
   + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 2](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-2)
-  
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+- [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---
 
@@ -60,11 +59,11 @@ How this is done...
 </div>
 <div class="right">
     <ul>
-        <li>Satellite Sync Limits</li>
-        <li>Uplink Verification</li>
-        <li>Total Uplink Count</li>
+        <li>Obstacles</li>
+        <li>Team Decisions</li>
+        <li>Changes in plan</li>
         <li>Future upgrades</li>
-        <li>Solar power for 24/7 capabilities</li>
+        <li>credits</li>
     </ul>
 </div>
 
@@ -89,8 +88,6 @@ How this is done...
 ![Twitch](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/twitch.png?raw=true)
 ![YouTube](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/youtube.png?raw=true)
 ![FaceBook](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/find-us-on-facebook.png?raw=true)
-
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black)
 
 ---
 
