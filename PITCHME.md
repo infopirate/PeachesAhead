@@ -6,40 +6,22 @@
 
 ---
 
-## Project Backstory
+## Project Pitch
 
-Factom Hackathon Question - How does Blockchain enable the world to bypass paper?
+Factom Hackathon Asks - How does Blockchain enable the world to bypass paper?
 
-- [ ] Major goal - paperless supply chain demonstration, running on a blockchain network or 2..
-
-Answer: 
-
-
-Security
-- [ ] A visual way of tracking / monitoring peaches from farm(s) to the distributor(s) to the stand(s).
+- [ ] (paper-less) supply chain demonstration, running on a blockchain network or 2..
+- [ ] A visual way of tracking / monitoring peaches. (farm(s) to the distributor(s) to the stand(s))
 - [ ] Stand selling peaches that can be verified authentic. 
-
-Major Considerations:
-Time, Functionality, Security, Savings, Effort
-
-The Big Questions: 
-How does Blockchain enable the world to bypass paper?
 
 ---
 
-## Main Priorities
-
-Savings
-- [ ] A major goal of the project
-
-Security
-- [ ] A visual way of tracking / monitoring peaches from farm(s) to the distributor(s) to the stand(s).
-- [ ] Stand selling peaches that can be verified authentic. 
+## Main Considerations
 
 Major Considerations:
 Time, Functionality, Security, Savings, Effort
 
-The Big Questions: 
+Answer The Big Questions: 
 How does Blockchain enable the world to bypass paper?
 
 ---
@@ -48,13 +30,8 @@ How does Blockchain enable the world to bypass paper?
 
 Participants will be asked to use the Factom blockchain to create solutions using data from the Factom Blockchain instead of what would be traditionally stored on paper.
 
-Verifying the fruit is from where it claims to be from...
-How this is done...
-
 @fa[arrows gp-tip](Press F to go Fullscreen)
-
 @fa[microphone gp-tip](Press S for Speaker Notes)
-
 
 ---
 
