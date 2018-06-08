@@ -74,6 +74,7 @@ Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg,
 The "Garbage-In" "Garbage-Out" Dilemma & our hack to fix it.
 
 What happens if/when a farmer mislabels a box, or what if people start creating fake copycat labels?
+There is only one problem with this. Blockchain does not solve the "garbage in, garbage out" problem. We may want to certify, for example, that a consumer is buying grass fed beef. If the first step of the process involves a farmer stating that their beef is grass fed, but this is not true, then the blockchain is providing an indelible record that the beef is grass fed. In short, blockchain does not eliminate the need for certification companies who inspect whether upstream suppliers are really doing what they say they are doing.
 
 
 ---
