@@ -76,14 +76,15 @@ The "Garbage-In" "Garbage-Out" Dilemma & our hack to fix it.
 1) Blockchain does not solve the "garbage in, garbage out" problem. 
 
 
-We may want to certify, for example, that a consumer is buying grass fed beef. <br>
-If the first step of the process involves a farmer stating that their beef is grass fed, but this is not true, then the blockchain is providing an indelible record that the beef is grass fed. 
+We may want to certify, for example, that a consumer is buying fredericksburg peaches. <br>
+If the first step of the process involves a farmer stating that their peaches are grown in fredericksburg, TX, but this is not true, then the blockchain is providing an indelible record that the peaches originate from a "false" location. 
 
 In short, blockchain does not eliminate the need for certification companies, 
 who inspect whether upstream suppliers are really doing what they say they are doing.
 
 
 Our Proposed Solution:
+Roy Says -- FOAM [https://www.foam.space/]
 
 ---
 
