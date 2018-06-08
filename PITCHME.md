@@ -63,9 +63,7 @@ How this is done...
 @fa[list-alt gp-tip](Factom Powered Verification Layer)
 Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg, Texas
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+<img src="http://www.texaspeaches.com/images/tx_peach_logo%20(2).jpg" style="background:none; border:none; box-shadow:none;">
 
 ---
 
