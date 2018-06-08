@@ -67,6 +67,14 @@ Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg,
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
+---
+
+## Biggest Concerns
+
+The "Garbage-In" "Garbage-Out" Dilemma & our hack to fix it.
+
+What happens if/when a farmer mislabels a box, or what if people start creating fake copycat labels?
+
 
 ---
 
