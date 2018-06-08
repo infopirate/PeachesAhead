@@ -63,7 +63,7 @@ How this is done...
 @fa[list-alt gp-tip](Factom Powered Verification Layer)
 Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg, Texas
 
-<img src="http://www.texaspeaches.com/images/tx_peach_logo%20(2).jpg" style="background:none; border:none; box-shadow:none;">
+<img src="http://www.texaspeaches.com/images/heading03.jpg" style="background:none; border:none; box-shadow:none;">
 
 ---
 
