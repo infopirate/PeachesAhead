@@ -70,13 +70,12 @@ Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg,
 ---
 
 ## Biggest Concerns
-
-1) The "Garbage-In" "Garbage-Out" Dilemma & our hack to fix it.
+1) The "Garbage-In" "Garbage-Out" Dilemma & our hack to fix it.<br>
 We may want to certify, for example, that a consumer is buying fredericksburg peaches. <br>
 If the first step of the process involves a farmer stating that their peaches are grown in fredericksburg, TX, but this is not true, then the blockchain is providing an indelible record that the peaches originate from a "false" location. 
 
-Our Proposed Solution:
-Roy's Response -- Possibly adding FOAM? [https://www.foam.space/]
+Proposed Solution(s):
+FOAM [https://www.foam.space/]
 
 ---
 
