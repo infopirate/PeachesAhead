@@ -78,9 +78,11 @@ Platin [https://platin.io/]
 ---
 
 '''bash
+
 curl --request POST \
   --url https://apiplus-api-sandbox-testnet.factom.com/v1/chains/04fc7129d25d2d3068eea5c8a51413d2b42ebbb789229653401091a3915918f2/entries \
   --data '{"external_ids":["UGVhY2ggU3RhbmQgIzEgTG9jYXRpb24="],"content":"MzAuMzgzNTg2MywtOTguMDg1MDczNg==","callback_url":"null","callback_stages":"factom"}'
+
 '''
 
 @[1-6](Present code found within any repo source file.)
