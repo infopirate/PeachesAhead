@@ -6,41 +6,30 @@
 
 ---
 
-## Project Backstory
+Milestones:
 
-Factom Hackathon Question - How does Blockchain enable the world to bypass paper?
+- [X] Factom Chain Created (PeachChain)
+- [X] MultiChain Blockchain Created (FarmChain)
+- [X] Front-End Boilerplated (???)
+- [ ] Backend & Frontend Integrated (???)
+- [ ] Test, Demonstrate, & Update! (???)
 
-- [ ] Major goal - paperless supply chain demonstration, running on a blockchain network or 2..
+---
 
-Answer: 
+## Project 
 
-
-Security
-- [ ] A visual way of tracking / monitoring peaches from farm(s) to the distributor(s) to the stand(s).
-- [ ] Stand selling peaches that can be verified authentic. 
-
-Major Considerations:
-Time, Functionality, Security, Savings, Effort
-
-The Big Questions: 
 How does Blockchain enable the world to bypass paper?
+
+- [ ] paper-less supply chain demonstration, running on a blockchain network or 2..
+- [ ] A visual way of tracking / monitoring peaches.
+- [ ] Stand selling peaches that can be verified authentic. 
 
 ---
 
 ## Main Priorities
 
-Savings
-- [ ] A major goal of the project
-
-Security
-- [ ] A visual way of tracking / monitoring peaches from farm(s) to the distributor(s) to the stand(s).
-- [ ] Stand selling peaches that can be verified authentic. 
-
 Major Considerations:
 Time, Functionality, Security, Savings, Effort
-
-The Big Questions: 
-How does Blockchain enable the world to bypass paper?
 
 ---
 
@@ -79,7 +68,7 @@ Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg,
 #### The Garbage In, Garbage Out Dillema
 
 We may want to certify, for example, that a consumer is buying fredericksburg peaches. <br>
-If the first step of the process involves a farmer stating that their peaches are grown in fredericksburg, TX, but this is not true, then the blockchain is providing an indelible record that the peaches originate from a "false" location. 
+If the first step of the process involves a farmer stating that their peaches are grown in Fredericksburg, TX, but this is not true, then the blockchain is providing an indelible record that the peaches originate from a "false" location. 
 
 Proposed Solution(s): Proof of Location
 FOAM [https://www.foam.space/]
@@ -172,3 +161,10 @@ curl --request POST \
 
 ![YouTube](https://www.youtube.com/embed/_c691Myl8sA)
 
+
+
+---
+
+Master plan:
+
+a label that has blockchain info on it that can verify information.. 
