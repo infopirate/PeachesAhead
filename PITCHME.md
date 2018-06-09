@@ -1,4 +1,4 @@
-### The PeachesAhead Project
+##### The PeachesAhead Project
 
 <img src="https://image.ibb.co/dPnWL8/giphy.gif" style="background:none; border:none; box-shadow:none;">
 
@@ -16,7 +16,7 @@ Milestones:
 
 ---
 
-## Project 
+#### Project 
 
 How does Blockchain enable the world to bypass paper?
 
@@ -26,14 +26,14 @@ How does Blockchain enable the world to bypass paper?
 
 ---
 
-## Main Priorities
+#### Main Priorities
 
 Major Considerations:
 Time, Functionality, Security, Savings, Effort
 
 ---
 
-## More stuff
+#### More stuff
 
 Participants will be asked to use the Factom blockchain to create solutions using data from the Factom Blockchain instead of what would be traditionally stored on paper.
 
@@ -56,7 +56,7 @@ Was your presentation clear and informative?
 
 ---
 
-## Even More stuff
+#### Even More stuff
 
 @fa[list-alt gp-tip](Factom Powered Verification Layer)
 Verification of "REAL" fredericksburg peaches from an Orchard in Fredericksburg, Texas
@@ -76,7 +76,7 @@ Platin [https://platin.io/]
 
 ---
 
-## Main Goals
+#### Main Goals
 
 - [Plan of Attack](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7) |
 - [Team Milestones](https://medium.com/@notgrubles/building-your-own-bitcoin-satellite-node-part-2-software-installation-a94a0b85d089) |
@@ -93,7 +93,7 @@ Platin [https://platin.io/]
 
 ---
 
-## Project Resources & Help
+#### Project Resources & Help
 
 - [PoC Blockchain + Agriculture Demonstration Code](https://github.com/AravindNico/blockchain_agri_usecase)
   + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 1](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-1) 
@@ -103,7 +103,7 @@ Platin [https://platin.io/]
 
 ---
 
-## Test Results
+#### Test Results
 
 <br>
 <div class="left">
@@ -136,7 +136,7 @@ curl --request POST \
 
 ---
 
-### Questions?
+#### Questions?
 
 <br>
 
@@ -149,7 +149,7 @@ curl --request POST \
 
 @title[Get Involved!]
 
-### Get started helping us out!
+#### Get started helping us out!
 
 ![Discord](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/discord.png?raw=true)
 ![Twitch](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/twitch.png?raw=true)
