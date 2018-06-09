@@ -48,8 +48,17 @@ How does Blockchain enable the world to bypass paper?
 
 Participants will be asked to use the Factom blockchain to create solutions using data from the Factom Blockchain instead of what would be traditionally stored on paper.
 
-Verifying the fruit is from where it claims to be from...
-How this is done...
+Scale & Complexity 
+How useful is the solution?
+
+Innovation
+How original is the solution?
+
+Quality of Implementation
+Does the solution make good use of the Factom protocol?
+
+Presentation
+Was your presentation clear and informative?
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
