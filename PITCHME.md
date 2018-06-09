@@ -110,6 +110,7 @@ Platin [https://platin.io/]
   + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 1](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-1) 
   + [How Blockchain Can Revolutionize Agricultural Supply Chain Part 2](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-2)
 - [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+- [Base64 Encoder](https://www.base64encode.org/)
 
 ---
 
