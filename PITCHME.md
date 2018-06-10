@@ -10,9 +10,9 @@
 
 - [X] Factom Chain Created (PeachChain)
 - [X] MultiChain Blockchain Created (FarmChain)
-- [X] Front-End Boilerplated (???)
-- [ ] Backend & Frontend Integrated (???)
-- [ ] Test, Demonstrate, & Update! (???)
+- [X] Front-End Boilerplated (React-Boilerplate)
+- [X] Backend & Frontend Integrated 
+- [X] Test, Demonstrate, & Update! 
 
 ---
 
@@ -20,9 +20,9 @@
 
 How does Blockchain enable the world to bypass paper?
 
-- [ ] paper-less supply chain demonstration, running on a blockchain network or 2..
-- [ ] A visual way of tracking / monitoring peaches.
-- [ ] Stand selling peaches that can be verified authentic. 
+- [X] paper-less supply chain demonstration, running on a blockchain network or 2..
+- [X] A visual way of tracking / monitoring peaches.
+- [X] Stand selling peaches that can be verified authentic. 
 
 ---
 
@@ -160,3 +160,9 @@ adding entries,
 Master plan:
 
 a label that has blockchain info on it that can verify information.. 
+we accomplished this by using this as our project idea:
+blockchain agri demo --
+
+then we applied it to a business structure 
+
+Demonstrate the web app scanning a qr code and receiving verifiable information.. 
