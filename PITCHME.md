@@ -1,7 +1,7 @@
 #### Peaches Ahead 
 
 <img src="https://image.ibb.co/dPnWL8/giphy.gif" style="background:none; border:none; box-shadow:none;">
-
+https://github.com/infopirate/PeachesAhead/blob/master/assets/image/w00t2.png?raw=true
 #### A Factom Hackathon Presentation 
 
 ---
@@ -32,6 +32,10 @@ How does Blockchain enable the world to bypass paper?
 
 Major Considerations:
 Time, Functionality, Security, Savings, Effort
+
+---
+
+<img src="https://github.com/infopirate/PeachesAhead/blob/master/assets/image/w00t2.png?raw=true" style="background:none; border:none; box-shadow:none;">
 
 ---
 
