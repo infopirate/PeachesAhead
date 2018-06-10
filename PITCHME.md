@@ -28,6 +28,8 @@ How does Blockchain enable the world to bypass paper?
 
 #### Main Priorities
 
+![YouTube](https://www.youtube.com/embed/xeAvnRaK_js)
+
 Major Considerations:
 Time, Functionality, Security, Savings, Effort
 
@@ -150,13 +152,6 @@ adding entries,
 
 ---
 
-
-![YouTube](https://www.youtube.com/embed/_c691Myl8sA)
-
-
-
----
-
 Master plan:
 
 a label that has blockchain info on it that can verify information.. 
@@ -164,5 +159,5 @@ we accomplished this by using this as our project idea:
 blockchain agri demo --
 
 then we applied it to a business structure 
-
+https://www.youtube.com/embed/_c691Myl8sA
 Demonstrate the web app scanning a qr code and receiving verifiable information.. 
